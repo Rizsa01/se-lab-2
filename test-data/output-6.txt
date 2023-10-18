@@ -1,0 +1,4 @@
+SUCCESS
+SUCCESS
+For input string: "10.3"
+SUCCESS
